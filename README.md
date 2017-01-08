@@ -1,2 +1,2 @@
 # hello-world
-My first Repository on GitHub
+This is a test repository, used for temporary work.
